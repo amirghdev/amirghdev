@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working as a Junior Backend Developer
-- 🛠️ My current project is Nestjs-cli
+- 🛠️ My current project is refactoring my website (front & back)
 
 ## Skills
 ### Languages
