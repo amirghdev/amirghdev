@@ -2,12 +2,10 @@
 
 ## About Me
 - 🔭 I’m currently working as a Junior Backend Developer
-- 🛠️ My current project is refactoring my website (front & back)
 
 ## Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ### Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
