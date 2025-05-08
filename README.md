@@ -15,6 +15,7 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
 
 ## Projects
+- [Easypay Nestjs](https://www.npmjs.com/package/easypay-nestjs): Easy integration for iranian gateway payments
 - [Dashboard](https://dashboard.amirmohammadgharibi.ir): Dashboard is my main and dream project to create a management system for my friends and myself.
 - [Nestjs-cli](https://github.com/amirghdev/nest-cli): Cli for adding modules from base project in your github repository
 
